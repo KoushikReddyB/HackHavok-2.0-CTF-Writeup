@@ -19,7 +19,7 @@ I began by following the Discord hint, "amos," which suggested that the hidden i
 ```bash
 grep "amos" /usr/share/wordlists/rockyou.txt
 ```
-![](src\images\7.png)
+![](src/images/7.png)
 
 ### Step 2: Manual Brute Force
 Given the hint that the password would be found towards the end, I manually checked the last entry from my grep results and discovered that the correct password was "*7¡Vamos!"
@@ -29,4 +29,4 @@ Given the hint that the password would be found towards the end, I manually chec
     CM{Bru73_f0rc3_i5_b35t}                 
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)
