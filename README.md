@@ -27,4 +27,4 @@
 | **Cloud** | [Cloudy Records](CTF%20WriteUps/Cloudy%20Records.md)                | Use DNS lookup to discover hidden data in cloud storage.    |
 
 
-![CTF Writeup by KoushikReddyB](CTF%20WriteUps/src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](CTF%20WriteUps/src/images/Credits.png)
