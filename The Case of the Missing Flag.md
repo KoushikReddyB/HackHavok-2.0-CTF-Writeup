@@ -1,14 +1,14 @@
-# CTF Write-Up: Hack Uncovered
+# CTF Write-Up: The Case of the Missing Flag
 
 ## Introduction
 
-This write-up discusses the challenge: **Hack Uncovered** from the **Hack Havoc 2.0** CTF.
+This write-up discusses the challenge: **The Case of the Missing Flag** from the **Hack Havoc 2.0** CTF.
 
 ## Required Information
 
 - **CTF Name:** Hack Havoc 2.0
-- **Challenge Name:** Hack Uncovered
-- **Challenge Category:** OSINT
+- **Challenge Name:** The Case of the Missing Flag
+- **Challenge Category:** Misc
 - **Challenge Points:** 40
 
 ## Content
