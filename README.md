@@ -7,7 +7,7 @@
 # [__Challenges__](#challenges)
 | Category  | Name                                                                 | Objective                                                     |
 |-----------|----------------------------------------------------------------------|--------------------------------------------------------------|
-| **Bonus** | [Welcome To CyberMaterial](CTF%20WriteUps/Welcome%20To%20CyberMaterial.md) | Discover a flag that was split into two halves.             |
+| **Bonus** | [Welcome To CyberMaterial](CTF%20WriteUps/Welcome%20to%20CyberMaterial.md) | Discover a flag that was split into two halves.             |
 | **Bonus** | [Feedback](CTF%20WriteUps/Feedback.md)                               | Collect user feedback to improve the service.               |
 | **Mobile**| [APK-ocalypse Now!](CTF%20WriteUps/APK-ocalypse%20Now!.md)          | Decompile an APK and find the flag.                         |
 | **Stego** | [Incidents in Disguise](CTF%20WriteUps/Incidents%20in%20Disguise.md) | Use hints to discover a hidden flag in stego content.      |
