@@ -18,12 +18,12 @@ The challenge Welcome To CyberMaterial required participants to discover a flag 
 ### Step 1: Finding the First Half of the Flag
 in the CyberMaterial Discord server for Hack Havoc 2.0, I used the command **/flag** in a text channel. The Carl bot will DM you with the first half of the flag.
 
-![](src\images\1.png)
+![First Half of the Flag](src/images/1.png)
 
 ### Step 2: Locating the Second Half
 Next, I checked the CyberMaterial Instagram page, as hinted in the challenge. The second half of the flag was found in their bio.
 
-![](src\images\2.png)
+![Second Half of the Flag](src/images/2.png)
 
 ## Flag: 
     CM{w3lc0m3_t0_H4ac_H4voc}
