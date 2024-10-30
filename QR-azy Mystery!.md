@@ -23,3 +23,4 @@ The **QR-azy Mystery!** challenge required working with a blurred QR code to unc
 
 ## Flag: 
      flag{3efd4bd34663e618c70e051505c83f9f}
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

@@ -26,3 +26,4 @@ Next, I brute-forced different file extensions to locate a hidden file. After tr
 
 ## Flag: 
     CM{3xten5i0n5_w45_CR4zY}          
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

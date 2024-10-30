@@ -18,3 +18,4 @@ The **Dialing for Danger** challenge presented a series of characters resembling
 
 ## Flag: 
      CM{GOLDEN_GATE_BRIDGE}
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

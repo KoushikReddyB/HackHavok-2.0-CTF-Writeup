@@ -29,3 +29,4 @@ Given the hint that the password would be found towards the end, I manually chec
     CM{Bru73_f0rc3_i5_b35t}                 
 
 
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

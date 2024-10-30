@@ -25,3 +25,4 @@ The translation revealed the flag as: {stauiliss_ruins_muharg}
                  
 
 
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

@@ -29,4 +29,11 @@ At the URL, I accessed an XML file listing various storage records. By checking 
 ## Flag: 
     CM{GCP_CloudStorage_Bucket_Challenge_20241018}               
 
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+
+
+
+
+
+
 

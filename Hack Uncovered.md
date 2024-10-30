@@ -20,3 +20,4 @@ The Hack Uncovered: OSNIT challenge required finding a hidden flag within a PDF 
     CM{DarkGate_CVE-2024-5217_KOPSA}                 
 
 
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

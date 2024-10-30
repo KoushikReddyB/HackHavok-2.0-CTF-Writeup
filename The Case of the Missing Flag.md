@@ -31,3 +31,4 @@ With the alignment corrected, the QR code became scannable, revealing the hidden
     CM{F0r3n3nic_1s_34sy}                 
 
 
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)

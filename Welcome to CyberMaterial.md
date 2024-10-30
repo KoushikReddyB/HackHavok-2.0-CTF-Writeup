@@ -29,3 +29,4 @@ Next, I checked the CyberMaterial Instagram page, as hinted in the challenge. Th
     CM{w3lc0m3_t0_H4ac_H4voc}
 
 
+![CTF Writeup by KoushikReddyB](src\images\Credits.png)
