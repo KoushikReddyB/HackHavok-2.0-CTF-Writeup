@@ -8,7 +8,7 @@ This write-up discusses the challenge: **Hacker's Fortress** from the **Hack Hav
 
 - **CTF Name:** Hack Havoc 2.0
 - **Challenge Name:** Hacker's Fortress
-- **Challenge Category:** OSINT
+- **Challenge Category:** Boot to Root
 - **Challenge Points:** 50
 
 ## Content
