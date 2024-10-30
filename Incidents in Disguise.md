@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This write-up discusses the challenge: **Incidents in Disguise
-** from the **Hack Havoc 2.0** CTF.
+This write-up discusses the challenge: **Incidents in Disguise** from the **Hack Havoc 2.0** CTF.
 
 ## Required Information
 
