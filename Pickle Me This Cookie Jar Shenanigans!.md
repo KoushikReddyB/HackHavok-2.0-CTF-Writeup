@@ -47,15 +47,15 @@ if __name__ == '__main__':
 
 ### Step 3: Generate Payload, Update Cookies, and Start Listener
 I ran **exploit.py** to generate a base64-encoded payload. I then copied this payload into the "**cart**" cookie on the challenge website. At the same time, I started a Netcat session on my AWS instance to listen for incoming connections with:
-```bash
-nc -lvnp 4242
-```
 
 
 ![](src\images\30.png)
 
 ### Step 4: Trigger the Exploit and Retrieve the Flag
-After refreshing the page and navigating to /cart, the reverse shell was triggered. This gave me access to the server shell via the Netcat session, where I found the flag in flag.md.
+After refreshing the page and navigating to */view*, the reverse shell was triggered. This gave me access to the server shell via the Netcat session, where I found the flag in flag.md.
+```bash
+nc -lvnp 4242
+```
 
 ![](src\images\31.png)
 
