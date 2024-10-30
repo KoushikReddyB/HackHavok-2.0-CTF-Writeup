@@ -23,21 +23,21 @@ apktool d -s hackhavoc.apk -o HackHavoc
 This command decompiled the APK file and outputted the contents into a directory named HackHavoc.
 
 
-![](src\images\4.png)
+![](src/images/4.png)
 
 ### Step 2: Locating the Flag
 After decompiling, I opened the AndroidManifest.xml file and found the flag hidden as a comment within the file. The comment contained a Caesar cipher, which I then decoded to reveal the flag.
 
-![](src\images\5.png)
+![](src/images/5.png)
 
 ### Step 3: Decoding with Caesar Cipher
 Upon retrieving the flag, I noticed it was encoded with a Caesar cipher. I used a shift of 13 to decode it. For example, if the encoded flag was PZ{NOP}, the decoded flag would be CM{ABC} by shifting each letter back by 13 positions in the alphabet.
 
-![](src\images\6.png)
+![](src/images/6.png)
 
 ## Flag: 
     CM{H1DD3N_7L4G_1N_M4NIF35T}
 
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)
