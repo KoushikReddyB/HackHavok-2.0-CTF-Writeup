@@ -14,10 +14,10 @@ This write-up discusses the challenge: **CyberMaterial Edition!** from the **Hac
 ## Content
 The CyberMaterial Edition! challenge required participants to locate a hidden flag within a LinkedIn post. Following the hint, I navigated through recent posts on CyberMaterial's LinkedIn page. By examining each post, I eventually discovered the flag embedded within one of them. 
 
-![](src\images\18.png)
+![](src/images/18.png)
 
 ## Flag: 
     CM{H4LL_0f_H4ck5_The3aTs}                 
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

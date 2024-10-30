@@ -19,16 +19,16 @@ The website presented the scrambled value 742-AJM. Recognizing that the challeng
 ### Step 2: Access the Google Form
 After unscrambling, I entered the value, which directed me to a Google Form. I used Inspect Element on the "your answer" field to dig deeper.
 
-![](src\images\25.png)
+![](src/images/25.png)
 
 ### Step 3: Reveal the Hash
 In the Google Form's "your answer" field, I found the actual hash. With the Dark Reader extension active, I could easily spot the hidden hash that satisfied the condition.
 
-![](src\images\26.png)
+![](src/images/26.png)
 
 ### Step 4: Decode the Hash
 Decoding the hash revealed the number 50. 
-![](src\images\27.png)
+![](src/images/27.png)
 
 We get the flag as: CM{SHA256_50} and we need to write this in the format as specified in the description
 
@@ -37,4 +37,4 @@ We get the flag as: CM{SHA256_50} and we need to write this in the format as spe
                  
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

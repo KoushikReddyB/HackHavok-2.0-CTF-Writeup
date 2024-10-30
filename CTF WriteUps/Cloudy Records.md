@@ -17,19 +17,19 @@ This write-up discusses the challenge: **Cloudy Records** from the **Hack Havoc 
 Starting with the website, I initially found no visible clues, so I conducted a DNS lookup for hidden records.
 The DNS lookup revealed a TXT record containing a URL hint: [https://storage.googleapis.com/cloudcorps-important/](https://storage.googleapis.com/cloudcorps-important/).
 
-![](src\images\35.png)
+![](src/images/35.png)
 
 ### Step 2: Examine Storage Contents and Find the Flag
 At the URL, I accessed an XML file listing various storage records. By checking each file in the URL, I located the flag within `Hall_of_Hacks_2.pdf`.
 
-![](src\images\36.png)
+![](src/images/36.png)
 
-![](src\images\37.png)
+![](src/images/37.png)
 
 ## Flag: 
     CM{GCP_CloudStorage_Bucket_Challenge_20241018}               
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)
 
 
 

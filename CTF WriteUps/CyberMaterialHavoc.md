@@ -23,7 +23,7 @@ I began by decoding the original message using Base92, which gave:
 ### Step 2: Vigenere Cipher
 Next, I applied the Vigenere Cipher with the key **CybermaterialHavoc** to the result from Step 1. This produced:
 
-![](src\images\23.png)
+![](src/images/23.png)
 
     XN{XbyviNzgvirzo_Dliow'h_Yvhg_Xbyvihvxfirgb_Wzgz_Kozgulin}
 
@@ -35,4 +35,4 @@ Finally, I used the Atbash cipher on the Vigenere result, which revealed the fla
                  
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

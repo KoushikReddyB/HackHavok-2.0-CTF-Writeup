@@ -14,11 +14,11 @@ This write-up discusses the challenge: **Hacker's Fortress** from the **Hack Hav
 ## Content
 The **Hacker's Fortress** challenge required gaining access to a hidden flag within the server. To solve it, I first registered an account and logged in. Then, I uploaded a simple PHP reverse shell and used its URL to navigate through the server directories. After locating a file named `.hidden_flag`, I accessed its contents by using the `cat` command, which revealed the flag. This sequence of steps successfully uncovered the hidden flag needed to complete the challenge.
 
-![](src\images\24.png)
+![](src/images/24.png)
 
 ## Flag: 
     CTF{3sc4l4t3d_t0_r00t}
                  
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

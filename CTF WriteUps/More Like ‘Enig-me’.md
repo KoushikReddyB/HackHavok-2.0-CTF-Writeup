@@ -27,11 +27,11 @@ Hints provided on Discord led me to configure the Enigma machine settings as fol
 
 Using these settings, I configured an Enigma machine emulator to decode the message correctly.
 
-![](src\images\19.png)
+![](src/images/19.png)
 
 ## Flag: 
     CM{Rotor_I-II-III_Pos_A-D-F_Reflector_B_Plug_A-T_B-L_Ring_A-A-A}
                
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

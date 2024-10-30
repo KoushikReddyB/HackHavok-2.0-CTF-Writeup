@@ -15,12 +15,12 @@ This write-up discusses the challenge: **QR-azy Mystery!** from the **Hack Havoc
 The **QR-azy Mystery!** challenge required working with a blurred QR code to uncover a hidden flag. To decode it, I first uploaded the image to an online sharpening tool, [PineTools](https://pinetools.com/sharpen-image), which enhanced the QR code’s clarity. Once sharpened, I was able to scan the QR code, revealing the flag and successfully completing the challenge.
 
 
-![](src\images\32.png)
+![](src/images/32.png)
 
 
-![](src\images\33.jpg)
+![](src/images/33.jpg)
 
 
 ## Flag: 
      flag{3efd4bd34663e618c70e051505c83f9f}
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

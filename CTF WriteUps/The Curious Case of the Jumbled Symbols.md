@@ -17,7 +17,7 @@ The **Curious Case of the Jumbled Symbols** challenge involved deciphering a seq
 
 The translation revealed the flag as: {stauiliss_ruins_muharg}
 
-![](src\images\22.png)
+![](src/images/22.png)
 
 ## Flag: 
     CM{{stauiliss_ruins_muharg}
@@ -25,4 +25,4 @@ The translation revealed the flag as: {stauiliss_ruins_muharg}
                  
 
 
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

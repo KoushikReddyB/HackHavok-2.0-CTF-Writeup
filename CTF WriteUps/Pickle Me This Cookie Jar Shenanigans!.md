@@ -49,7 +49,7 @@ if __name__ == '__main__':
 I ran **exploit.py** to generate a base64-encoded payload. I then copied this payload into the "**cart**" cookie on the challenge website. At the same time, I started a Netcat session on my AWS instance to listen for incoming connections with:
 
 
-![](src\images\30.png)
+![](src/images/30.png)
 
 ### Step 4: Trigger the Exploit and Retrieve the Flag
 After refreshing the page and navigating to */view*, the reverse shell was triggered. This gave me access to the server shell via the Netcat session, where I found the flag in flag.md.
@@ -57,9 +57,9 @@ After refreshing the page and navigating to */view*, the reverse shell was trigg
 nc -lvnp 4242
 ```
 
-![](src\images\31.png)
+![](src/images/31.png)
 
 
 ## Flag: 
      CM{c0Ngr47S_y0u_ArE_A_Ser1A1_KI11er}
-![CTF Writeup by KoushikReddyB](src\images\Credits.png)
+![CTF Writeup by KoushikReddyB](src/images/Credits.png)

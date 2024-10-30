@@ -23,7 +23,7 @@ grep "amos" /usr/share/wordlists/rockyou.txt
 
 ### Step 2: Manual Brute Force
 Given the hint that the password would be found towards the end, I manually checked the last entry from my grep results and discovered that the correct password was "*7¡Vamos!"
-![](src\images\8.png)
+![](src/images/8.png)
 
 ## Flag: 
     CM{Bru73_f0rc3_i5_b35t}                 
